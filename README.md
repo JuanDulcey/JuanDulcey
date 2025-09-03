@@ -1,35 +1,36 @@
-# 👋 Hola, soy **Juan Esteban Dulcey Gómez**
+<!-- Encabezado animado -->
+<h1 align="center">👋 Hola, soy <span style="color:#f57c00;">Juan Esteban Dulcey Gómez</span></h1>
 
-💻 **Backend Developer** | ☕ **Java & Spring Boot** | ☁️ **AWS (en curso)** | 🚀 Cofundador de **DevV**  
+<p align="center">
+  💻 <b>Backend Developer</b> | ☕ <b>Java & Spring Boot</b> | ☁️ <b>AWS en curso</b> | 🚀 Cofundador de <b>DevV</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JuanDulcey&label=Visitas&color=orange&style=flat" alt="contador"/>
+</p>
 
 ---
 
-## 📌 Sobre mí  
+## 🙋‍♂️ Sobre mí  
 
 Soy estudiante de **Ingeniería de Sistemas** con un enfoque claro en el **desarrollo backend**.  
 Trabajo principalmente con **Java y Spring Boot**, aplicando buenas prácticas como **Clean Code**, **principios SOLID** y **arquitectura hexagonal**.  
 
 Actualmente estoy en proceso de certificación en:  
-- **AWS Cloud Practitioner (CLF-C02)**  
-- **AWS Solutions Architect Associate (SAA-C03)**  
+- ☁️ **AWS Cloud Practitioner (CLF-C02)**  
+- ☁️ **AWS Solutions Architect Associate (SAA-C03)**  
 
-Esto me permite fortalecer mis habilidades en despliegue en la nube, automatización y prácticas DevOps (CI/CD, Docker, monitoreo de infraestructura).  
-
-Como **cofundador de DevV**, impulso proyectos reales desde la universidad, con la visión de generar impacto local y global a través de la tecnología.  
+También me interesa el mundo **DevOps**, explorando CI/CD, Docker y monitoreo de infraestructura.  
+Como **cofundador de DevV**, creo en la visión de que la tecnología desarrollada desde lo local puede tener impacto global.  
 
 ---
 
-## 👤 Mi Perfil  
+## 📊 Mis estadísticas en GitHub  
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/170995732?s=400&u=8afc520dad6eb41b545b3c2d7da80be06a895f3d&v=4" 
-       alt="Foto de Juan Esteban Dulcey Gómez" 
-       width="180" 
-       style="border-radius:50%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanDulcey&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDulcey&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
-
-**Juan Esteban Dulcey Gómez**  
-Backend Developer | DevOps Enthusiast | Cofundador de DevV  
 
 ---
 
@@ -47,9 +48,9 @@ Backend Developer | DevOps Enthusiast | Cofundador de DevV
 
 ## 🎓 Educación  
 
-- **Universidad Santo Tomás - Seccional Tunja**  
-  Ingeniería de Sistemas  
-  Villa de Leyva, Boyacá, Colombia  
+🎓 **Universidad Santo Tomás - Seccional Tunja**  
+📍 Villa de Leyva, Boyacá, Colombia  
+📘 Carrera: Ingeniería de Sistemas  
 
 ---
 
@@ -67,7 +68,11 @@ Backend Developer | DevOps Enthusiast | Cofundador de DevV
   <img src="https://cdn-icons-png.flaticon.com/128/919/919854.png" width="60" alt="Java"/>
   <img src="https://cdn-icons-png.flaticon.com/128/2111/2111432.png" width="60" alt="GitHub"/>
   <img src="https://cdn-icons-png.flaticon.com/128/14082/14082943.png" width="60" alt="AWS"/>
-  <img src="https://cdn.pixabay.com/photo/2017/12/06/04/57/linkedin-3000959_1280.png" width="60" alt="LinkedIn"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="60" alt="Spring Boot"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png" width="60" alt="Docker"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/732/732212.png" width="60" alt="HTML"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" width="60" alt="CSS"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="60" alt="JS"/>
 </p>
 
 ---
@@ -79,4 +84,4 @@ Backend Developer | DevOps Enthusiast | Cofundador de DevV
 
 ---
 
-© 2025 **Juan Esteban Dulcey Gómez**
+<p align="center">© 2025 <b>Juan Esteban Dulcey Gómez</b></p>
