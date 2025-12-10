@@ -77,10 +77,18 @@ Como **cofundador de DevV**, creo en la visión de que la tecnología desarrolla
 
 ---
 
-## 📬 Contacto  
+---
 
-- 🔗 [**GitHub: JuanDulcey**](https://github.com/JuanDulcey)  
-- 💼 [**LinkedIn: Juan Esteban Dulcey**](https://www.linkedin.com/in/juan-esteban-dulcey)  
+<h2 align="center">📬 Contacto</h2>
+
+<p align="center">
+  <a href="https://github.com/JuanDulcey">
+    <img src="https://img.shields.io/badge/GitHub-JuanDulcey-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/juan-esteban-dulcey">
+    <img src="https://img.shields.io/badge/LinkedIn-Juan%20Esteban-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
 
 ---
 
