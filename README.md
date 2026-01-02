@@ -92,4 +92,4 @@ Como **cofundador de DevV**, creo en la visión de que la tecnología desarrolla
 
 ---
 
-<p align="center">© 2025 <b>Juan Esteban Dulcey Gómez</b></p>
+<p align="center">© 2026 <b>Juan Esteban Dulcey Gómez</b></p>
