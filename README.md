@@ -25,12 +25,18 @@ Como **cofundador de DevV**, creo en la visión de que la tecnología desarrolla
 
 ---
 
-## 📊 Mis estadísticas en GitHub  
+## 🚀 Proyectos Destacados
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanDulcey&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDulcey&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-</p>
+### 🔹 API de Gestión de Usuarios
+Backend REST con **Java 17 + Spring Boot**, autenticación JWT y arquitectura hexagonal.
+
+- Clean Architecture
+- Principios SOLID
+- PostgreSQL + JPA
+- Dockerizado
+- CI/CD con GitHub Actions
+
+🔗 Repositorio: https://github.com/JuanDulcey/smart-scheduling.git
 
 ---
 
