@@ -17,7 +17,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JuanDulcey&label=Profile%20views&color=f57c00&style=for-the-badge" alt="views"/>
   <img src="https://img.shields.io/github/followers/JuanDulcey?label=Followers&style=for-the-badge&color=f57c00&labelColor=181717" alt="followers"/>
-  <a href="https://www.linkedin.com/in/juan-esteban-dulcey">
+  <a href="https://www.linkedin.com/in/juan-esteban-dulcey-8080b91b0">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
 </p>
@@ -123,8 +123,8 @@ flowchart LR
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=JuanDulcey&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&icon_color=f57c00&title_color=f57c00#gh-dark-mode-only"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=JuanDulcey&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true&icon_color=f57c00&title_color=f57c00#gh-light-mode-only"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanDulcey&theme=tokyonight&hide_border=true&ring=f57c00&fire=f57c00&currStreakLabel=f57c00#gh-dark-mode-only"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanDulcey&theme=graywhite&hide_border=true&ring=f57c00&fire=f57c00&currStreakLabel=f57c00#gh-light-mode-only"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=JuanDulcey&theme=tokyonight&hide_border=true&ring=f57c00&fire=f57c00&currStreakLabel=f57c00#gh-dark-mode-only"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=JuanDulcey&theme=graywhite&hide_border=true&ring=f57c00&fire=f57c00&currStreakLabel=f57c00#gh-light-mode-only"/>
 </p>
 
 <p align="center">
@@ -133,8 +133,8 @@ flowchart LR
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanDulcey&theme=tokyo-night&hide_border=true&area=true&color=f57c00&line=f57c00&point=ffffff#gh-dark-mode-only" alt="activity"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanDulcey&theme=github&hide_border=true&area=true&color=f57c00&line=f57c00#gh-light-mode-only" alt="activity"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanDulcey&theme=tokyo-night&hide_border=true&area=true&radius=8#gh-dark-mode-only" alt="activity"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanDulcey&theme=github-light&hide_border=true&area=true&radius=8#gh-light-mode-only" alt="activity"/>
 </p>
 
 <p align="center">
@@ -162,7 +162,7 @@ flowchart LR
   <a href="https://github.com/JuanDulcey">
     <img src="https://img.shields.io/badge/GitHub-JuanDulcey-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/juan-esteban-dulcey">
+  <a href="https://www.linkedin.com/in/juan-esteban-dulcey-8080b91b0">
     <img src="https://img.shields.io/badge/LinkedIn-Juan%20Esteban-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:juanesdulcey05@gmail.com">
