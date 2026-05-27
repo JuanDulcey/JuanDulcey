@@ -135,10 +135,6 @@ flowchart LR
   <img loading="lazy" alt="Gráfica de actividad" src="https://github-readme-activity-graph.vercel.app/graph?username=JuanDulcey&theme=tokyo-night&hide_border=true&area=true&radius=8"/>
 </p>
 
-<p align="center">
-  <img loading="lazy" alt="Trofeos de GitHub" src="https://github-profile-trophy.vercel.app/?username=JuanDulcey&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10"/>
-</p>
-
 ---
 
 ## 🎓 Educación y certificaciones
