@@ -121,20 +121,20 @@ flowchart LR
 ## 📊 GitHub in numbers
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JuanDulcey&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&icon_color=f57c00&title_color=f57c00&cache_seconds=86400&v=2"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=JuanDulcey&theme=tokyonight&hide_border=true&ring=f57c00&fire=f57c00&currStreakLabel=f57c00"/>
+  <img height="170" loading="lazy" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JuanDulcey&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&icon_color=f57c00&title_color=f57c00&cache_seconds=86400"/>
+  <img height="170" loading="lazy" alt="GitHub streak" src="https://streak-stats.demolab.com?user=JuanDulcey&theme=tokyonight&hide_border=true&ring=f57c00&fire=f57c00&currStreakLabel=f57c00"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDulcey&layout=compact&theme=tokyonight&hide_border=true&title_color=f57c00&langs_count=8&cache_seconds=86400&v=2"/>
+  <img height="170" loading="lazy" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDulcey&layout=compact&theme=tokyonight&hide_border=true&title_color=f57c00&langs_count=8&cache_seconds=86400"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanDulcey&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="activity"/>
+  <img loading="lazy" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=JuanDulcey&theme=tokyo-night&hide_border=true&area=true&radius=8"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JuanDulcey&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10" alt="trophies"/>
+  <img loading="lazy" alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=JuanDulcey&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10"/>
 </p>
 
 ---
